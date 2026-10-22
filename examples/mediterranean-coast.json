@@ -1,0 +1,67 @@
+{
+  "objective": "Create a new image with the painterly aesthetic of the references",
+  "scene": "A terracotta Mediterranean villa beside the sea, with two palm trees in the foreground, a small boat in the bay and golden late-afternoon light.",
+  "format": {
+    "orientation": "landscape",
+    "aspect_ratio": "16:9",
+    "use": "wallpaper",
+    "composition": "One scene filling the entire image"
+  },
+  "style": {
+    "visual_technique": "Oil on canvas with thick impasto",
+    "paint_application": "Palette knife and short, dense, irregular brushstrokes",
+    "texture": "Pronounced relief, paint ridges and clearly visible overlapping strokes",
+    "representation": "Figurative, with recognizable subjects and details simplified into patches of paint",
+    "finish": "Handcrafted, tactile and slightly glossy along the impasto ridges",
+    "edge_treatment": "Alternating defined contours and edges broken by brushwork"
+  },
+  "mood": {
+    "atmosphere": "Cinematic, elegant and dramatic",
+    "character": "Traditional painting with editorial photography framing",
+    "related_themes": [
+      "Classic sports",
+      "Coastal landscapes with villas and palm trees",
+      "Animals with an imposing presence",
+      "Action scenes"
+    ]
+  },
+  "color": {
+    "approach": "A limited palette consistent with the scene",
+    "saturation": "Deep, saturated colors in color versions",
+    "shadows": "Dark, with intense blacks and chromatic nuances",
+    "highlights": "Concentrated luminous accents",
+    "selected_palette": {
+      "name": "Mediterranean coast",
+      "colors": [
+        "cobalt blue",
+        "deep blue",
+        "palm green",
+        "ochre",
+        "terracotta"
+      ]
+    }
+  },
+  "lighting": {
+    "contrast": "High",
+    "treatment": "Deep shadows and highlights that model the subjects",
+    "texture": "Small highlights and shadows that reveal the relief of the paint"
+  },
+  "composition": {
+    "framing": "Striking and easy to recognize",
+    "depth": "Distinct foreground, middle ground and background",
+    "visual_focus": "Main subject clearly readable among the brushstrokes",
+    "detail": "Greater definition at the focal point and painterly simplification in secondary areas"
+  },
+  "avoid": [
+    "A purely photographic finish",
+    "Plastic-looking 3D rendering",
+    "Smooth surfaces without brushstrokes",
+    "Vector aesthetics",
+    "Cartoon or anime",
+    "Washed-out pastel colors",
+    "Text, logos or watermarks",
+    "Labels, buttons or webpage elements",
+    "Collages of multiple images"
+  ],
+  "base_prompt": "Depict the specified scene as a figurative oil painting with thick impasto and palette knife work. Use dense, irregular, overlapping brushstrokes, with visible paint ridges across the entire surface. Keep the subjects recognizable and concentrate detail at the main focal point. Use a coherent palette, deep shadows and intense highlights. Aim for an elegant, cinematic atmosphere with editorial framing. The image should feel hand-painted, with physical paint relief, without looking like a photograph with a texture filter. Landscape 16:9 format, one scene, no text or interface elements."
+}
